@@ -10,7 +10,7 @@ author:
 # Build settings
 baseurl: https://github.com/Iftebel/emerald// # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
-source: .
+source: ./emerald
 destination: ./_site
 permalink: /:title
 paginate: 8
