@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, [consectetur adipisicing](http://www.example.com) el
 
 ## This is My Webpage
 
-# My nane is Munna !
+# My nane is Munna 
 
 ### h3, h4, h5 and h6 have the same style.
 
