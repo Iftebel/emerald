@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-# My Firs Post![IMAG0021.jpg]({{site.baseurl}}/_posts/IMAG0021.jpg)
+# My Firs Post
+![]({{site.baseurl}}/_posts/IMAG0021.jpg)![IMAG0021.jpg]({{site.baseurl}}/_posts/IMAG0021.jpg)
 
 ## A New Post
 
