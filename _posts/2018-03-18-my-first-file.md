@@ -2,6 +2,7 @@
 published: true
 ---
 # My First Post
+![Test](/emerald/img/img-test.png "Test")
 
 ## A New Post
 
